@@ -5,6 +5,11 @@ Hi there 🚀 !
 My name is Tim Ruiterkamp and this is my personal .bash_profile and other dotfiles i use during development.
 
 
+## Contents
+In this bash profile there are tweaks to the terminal to make life more easy. It's mostly shortcodes for most used commands i personaly use.
+
+
+
 ## Installation
 
 Installation of a .bash_profile to customize your terminal.
