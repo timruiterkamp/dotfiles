@@ -10,7 +10,7 @@ In this bash profile there are tweaks to the terminal to make life more easy. It
 
 The .gitignore file contains the ability to automatic denied node_modules from being pushed to github. And the .editorconfig has some configuration for a solid editor interface. Look at [Editorconfig](http://editorconfig.org/) for more information about the configurations.
 
-
+**If u have any additions, feel free to add them!**
 
 ## Installation
 
