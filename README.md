@@ -14,6 +14,8 @@ The .gitignore file contains the ability to automatic denied node_modules from b
 
 ## Installation
 
+The .gitignore and .editorconfig can be directly placed inside the root of your working directory.
+
 Installation of a .bash_profile to customize your terminal.
 * Start up Terminal.
 * Type "cd ~/" to go to your home folder.
