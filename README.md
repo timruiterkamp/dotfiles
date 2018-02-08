@@ -8,6 +8,8 @@ My name is Tim Ruiterkamp and this is my personal .bash_profile and other dotfil
 ## Contents
 In this bash profile there are tweaks to the terminal to make life more easy. It's mostly shortcodes for most used commands i personaly use.
 
+The .gitignore file contains the ability to automatic denied node_modules from being pushed to github. And the .editorconfig has some configuration for a solid editor interface. Look at [Editorconfig](http://editorconfig.org/) for more information about the configurations.
+
 
 
 ## Installation
