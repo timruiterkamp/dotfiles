@@ -1,10 +1,3 @@
-source ~/.profile
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
-alias php='/Applications/MAMP/bin/php/php7.0.10/bin/php'
-alias pear='/Applications/MAMP/bin/php/php7.0.10/bin/pear'
-alias pecl='/Applications/MAMP/bin/php/php7.0.10/bin/pecl'
-
 # Change Prompt
     export PS1="________________________________________________________________________________\n| \w @ \h (\u) \n| 🚀 => "
 
