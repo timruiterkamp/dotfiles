@@ -34,3 +34,6 @@ To install Z that is used to get directly to certain directories u have visited 
 
 The first time after u installed Z use cd to change directory. After that u can dismiss long sentences like: usr/test/folder/file and just type z file. The directory will change to usr/test/folder/file.
 
+#### Cowsay
+
+to install the cowsay command, run ```npm install -g cowsay``` in the cd ~ directory.
